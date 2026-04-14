@@ -34,30 +34,48 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Containerized Network Monitoring Platform  
-<p>
+
+<p align="center">
   <a href="https://github.com/bhaskarviswanadh/Network-Monitoring-System">
-    <img src="https://private-user-images.githubusercontent.com/158013892/560825996-bd1c1d17-b6e9-4fa5-b49d-5160f6d4443f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYxNDI3NjEsIm5iZiI6MTc3NjE0MjQ2MSwicGF0aCI6Ii8xNTgwMTM4OTIvNTYwODI1OTk2LWJkMWMxZDE3LWI2ZTktNGZhNS1iNDlkLTUxNjBmNmQ0NDQzZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxNFQwNDU0MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNjZjOTIyYTk0ODkyY2UxNTA3ZmU3MzUwMjE4MzE2N2FiODFjMDE5MTdiYWU5Njk5ZWZmNWY0ZmEwYzJkOWUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.8KTQbm9qx14BhEBkDNorMfPHYWA7lJ7CgJvOg-Vsiy4" width="700" />
+    <img src="https://private-user-images.githubusercontent.com/158013892/560825996-bd1c1d17-b6e9-4fa5-b49d-5160f6d4443f.png" width="700"/>
   </a>
 </p>
+
+> Real-time monitoring system for network devices using SSH automation  
 
 - 📊 Collects CPU, memory, uptime & interface metrics from 18+ devices  
 - 🔁 Automated polling using scheduler  
 - 🐳 Dockerized with CI/CD (GitHub Actions)  
 - ☁️ Deployed on AWS EC2 with web dashboard  
 
----
-
-### 🔹 Internal Developer Platform (IDP) CLI  
-<p>
-  <a href="https://github.com/bhaskarviswanadh/idp-project">
+<p align="center">
+  <a href="https://github.com/bhaskarviswanadh/Network-Monitoring-System">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+---
+
+### 🔹 Internal Developer Platform (IDP) CLI  
+
+<p align="center">
+  <a href="https://github.com/bhaskarviswanadh/idp-project">
+    <img src="https://private-user-images.githubusercontent.com/158013892/577784809-a4994def-e1d2-4e30-89aa-deb98197a066.png" width="700"/>
+  </a>
+</p>
+
+> One-command deployment system for developers  
 
 - ⚙️ Built CLI using Go for end-to-end deployment automation  
 - 📦 Docker-based containerization & image management  
 - ☸️ Kubernetes integration (Minikube) for scalable deployments  
 - 🧠 YAML-driven dynamic configuration system  
+
+<p align="center">
+  <a href="https://github.com/bhaskarviswanadh/idp-project">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
