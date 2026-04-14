@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/bhaskarviswanadh/idp-project">
-    <img src="https://private-user-images.githubusercontent.com/158013892/577784809-a4994def-e1d2-4e30-89aa-deb98197a066.png" width="700"/>
+    <img src="https://github.com/user-attachments/assets/a4994def-e1d2-4e30-89aa-deb98197a066" width="700"/>
   </a>
 </p>
 
