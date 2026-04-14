@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/bhaskarviswanadh/Network-Monitoring-System">
-    <img src="https://private-user-images.githubusercontent.com/158013892/560825996-bd1c1d17-b6e9-4fa5-b49d-5160f6d4443f.png" width="700"/>
+    <img src="https://github.com/user-attachments/assets/bd1c1d17-b6e9-4fa5-b49d-5160f6d4443f" width="700"/>
   </a>
 </p>
 
