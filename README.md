@@ -34,7 +34,11 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Containerized Network Monitoring Platform  
-> Real-time monitoring system for network devices using SSH automation  
+<p>
+  <a href="https://github.com/bhaskarviswanadh">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 - 📊 Collects CPU, memory, uptime & interface metrics from 18+ devices  
 - 🔁 Automated polling using scheduler  
@@ -44,7 +48,11 @@
 ---
 
 ### 🔹 Internal Developer Platform (IDP) CLI  
-> One-command deployment system for developers  
+<p>
+  <a href="https://github.com/bhaskarviswanadh">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 - ⚙️ Built CLI using Go for end-to-end deployment automation  
 - 📦 Docker-based containerization & image management  
@@ -56,11 +64,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskarviswanadh&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaskarviswanadh&theme=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarviswanadh&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhaskarviswanadh&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhaskarviswanadh&theme=github" />
 </p>
 
 ---
